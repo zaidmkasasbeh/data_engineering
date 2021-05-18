@@ -12,7 +12,11 @@ Question 1 solution steps:
 
 5- Put the CSV file that you want to convert to Json in the /input directory
 
-6- Open the /output directory to see the generated Json file ![Screen Shot 2021-05-18 at 22 12 58](https://user-images.githubusercontent.com/77297836/118709888-3b69f580-b826-11eb-8425-3f76f3b35c9c.png)
+6- Open the /output directory to see the generated Json file since the configured flow will generate the new file in there 
+
+![Screen Shot 2021-05-18 at 21 49 15](https://user-images.githubusercontent.com/77297836/118711756-9dc3f580-b828-11eb-8e51-7060c5bae6dd.png)
+
+![Screen Shot 2021-05-18 at 22 12 58](https://user-images.githubusercontent.com/77297836/118709888-3b69f580-b826-11eb-8425-3f76f3b35c9c.png)
 
 
 Question 2 Solution Steps:
