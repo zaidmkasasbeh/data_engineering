@@ -1,5 +1,7 @@
 ## Data Engineering Assignments
 
+Assigment 1
+
 Question 1 solution steps:
 
 1- After getting the container up and running, open http://localhost:8080/nifi/
@@ -37,3 +39,20 @@ Question 2 Solution Steps:
 
 
 4- Run the dag and check the results in the mongoDB using the link http://localhost:8081/
+
+
+Assignment 2
+
+1- After getting the container up and running, open http://localhost:8080/home/
+
+2- On the Airflow home page, search for the "Assignment 2" dag that has been created in the /dags directory
+
+3- Open the Dag, it should look like the following 
+
+<img width="279" alt="Screen Shot 2021-05-28 at 13 00 15" src="https://user-images.githubusercontent.com/77297836/120020822-ecc11600-bff2-11eb-805c-6969cd3a70fe.png">
+
+<img width="1391" alt="Screen Shot 2021-05-28 at 13 00 33" src="https://user-images.githubusercontent.com/77297836/120020834-f21e6080-bff2-11eb-9f99-866cba258377.png">
+
+4- Run the dag and check the .png and .csv results in the Output directory using the link http://localhost:8000/browser/ to view the tables in postgreSQL
+
+<img width="539" alt="Screen Shot 2021-05-28 at 20 29 12" src="https://user-images.githubusercontent.com/77297836/120021181-648f4080-bff3-11eb-94a9-7c8911c0a5f4.png">
